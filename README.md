@@ -1,2 +1,2 @@
-# CalculateFactorial
-Program that calculate factorial of the entered number 
+# CalculateCombination
+Program that calculate Combination according to entered numbers
